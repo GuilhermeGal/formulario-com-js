@@ -12,7 +12,7 @@ function cadastro(){
     <br>
     idade: ${idade}
     <br>
-    peso: ${peso}
+    peso: ${peso + 'kg'}
     <br>
     sexo: ${sexo}`;
 }
