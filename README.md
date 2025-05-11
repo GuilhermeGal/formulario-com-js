@@ -1,3 +1,5 @@
 # formulario-com-js
-Pratica de CSS - customização do site
-Pratica de programação JavaScript - capitação dos valores do formulário
+<ul>
+<li> Pratica de CSS - customização do site </li>
+<li> Pratica de programação JavaScript - capitação dos valores do formulário </li>
+</ul>
